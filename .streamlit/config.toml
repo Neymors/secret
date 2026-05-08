@@ -1,0 +1,24 @@
+[theme]
+# Paleta inspirada en Amygdalé Web (Modo Oscuro Cyberpunk)
+base = "dark"
+primaryColor = "#60a5fa"       # Azul neón (--blue en dark mode)
+backgroundColor = "#121214"    # Fondo muy oscuro (--bg)
+secondaryBackgroundColor = "#1c1c1f" # Superficie de tarjetas (--surface)
+textColor = "#e8e8e6"          # Texto principal claro (--text)
+font = "sans serif"            # Fuente limpia y moderna
+
+[server]
+# Configuración para desarrollo local
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+# Abre automáticamente al ejecutar
+gatherUsageStats = false
+
+[client]
+# Mostrar barra de herramientas superior (para acceder al menú de opciones)
+showSidebarNavigation = true
+toolbarMode = "minimal"

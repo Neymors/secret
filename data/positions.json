@@ -1,0 +1,50 @@
+[
+    {
+        "ticker": "AAPL",
+        "asset_type": "ar",
+        "holdings": [
+            {
+                "qty": 1234567890.0,
+                "price": 123456789.0,
+                "date": "2026-05-08T18:24:14.324700",
+                "tc": 1434.3
+            }
+        ]
+    },
+    {
+        "ticker": "BTC",
+        "asset_type": "crypto",
+        "holdings": [
+            {
+                "qty": 0.0005,
+                "price": 12.0,
+                "date": "2026-05-08T18:25:57.500262",
+                "tc": null
+            }
+        ]
+    },
+    {
+        "ticker": "AL30",
+        "asset_type": "ar",
+        "holdings": [
+            {
+                "qty": 0.0005,
+                "price": 12.0,
+                "date": "2026-05-08T18:26:20.568634",
+                "tc": 1434.3
+            }
+        ]
+    },
+    {
+        "ticker": "XLV",
+        "asset_type": "global",
+        "holdings": [
+            {
+                "qty": 1.0,
+                "price": 12.0,
+                "date": "2026-05-08T18:26:40.744444",
+                "tc": null
+            }
+        ]
+    }
+]
